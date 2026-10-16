@@ -1,5 +1,7 @@
 # AI-Savvy Professor
 
+![The AI-Savvy Professor](assets/ai-savvy-professor.png)
+
 A free tool for faculty who want to design assignments for a world where students have AI.
 
 You give it a course, a topic, and your notes. It drafts three open-ended "Math++" challenges in which students use AI as part of the work and create something new. It also drafts a rubric that grades both **what students arrived at** and **how they got there**, plus a student handout and an AI-use log.

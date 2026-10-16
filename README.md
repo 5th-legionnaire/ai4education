@@ -4,6 +4,8 @@ A collection of skills, models, and agents for educators.
 
 ## Skills
 
+<img src="skills/ai-savvy-professor/assets/ai-savvy-professor.png" alt="The AI-Savvy Professor" width="520">
+
 | Skill | What it does |
 |---|---|
 | [AI-Savvy Professor](skills/ai-savvy-professor/) | Designs open-ended, AI-encouraged "Math++" challenges for a course, with a rubric that grades both what students arrived at and how they got there. Works with Claude or as a prompt in any AI assistant. |
